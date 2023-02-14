@@ -1,0 +1,1 @@
+Here is an example program that you can use to control actuators, detect rings that have been shot using IR sensors, and implement an emergency stop button, with extra useful functions. The robot communicates with a Bluetooth app through strings received from the app:
